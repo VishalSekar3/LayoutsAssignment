@@ -10,7 +10,7 @@ namespace LayoutApp
 		{
 			InitializeComponent();
 
-			MainPage = new LoginPage();
+			MainPage = new DialPage();
 		}
 
 		protected override void OnStart()
